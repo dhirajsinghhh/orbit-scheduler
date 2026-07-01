@@ -1,0 +1,6 @@
+{
+  "name": "Orbit Scheduler",
+  "description": "An intelligent spaced-repetition study planner with interactive orbital galaxy visualizer, SM-2 scheduling, custom subjects, and rich activity heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
